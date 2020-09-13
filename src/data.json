@@ -1,0 +1,22 @@
+{
+  "details": [
+    {
+      "Card": {
+        "name": " Rajesh",
+        "email": "rajesh.n@apssdc.in",
+        "mobile": 65634657,
+        "des": "SE"
+      },
+      "career": "I want to become an Socialist"
+    },
+    {
+      "Card": {
+        "name": " Surya",
+        "email": "surya@apssdc.in",
+        "mobile": 5475467546,
+        "des": "sr. SE"
+      },
+      "career": "I want to become an Art."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import data from "../data.json";
 import logo from "../logo.svg";
-import logo1 from "../angular.png";
+import logo1 from "../img.jpg";
 import { Link } from "react-router-dom";
 
 let Cards = () => {
